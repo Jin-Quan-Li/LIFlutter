@@ -28,6 +28,8 @@ dependencies:
   flute_music_player: ^0.0.6
   dio: ^3.0.8
   chewie: ^0.9.8+1
+  video_player: ^0.10.4+1
+  audioplayer: ^0.5.2
   
 dev_dependencies:
   flutter_test:

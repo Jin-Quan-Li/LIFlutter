@@ -133,7 +133,6 @@ class _BottomNavigateState extends State<BottomNavigate> {
 		});
 	}
 }
-
 // 所有路由
 Map<String, WidgetBuilder> routers = {
 	"/":(context) => BottomNavigate(),
